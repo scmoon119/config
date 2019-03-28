@@ -1,6 +1,0 @@
-zuul:
-  routes:
-    sample01:
-      url: http://localhost:8090
-    sample02:
-      url: http://localhost:8100
